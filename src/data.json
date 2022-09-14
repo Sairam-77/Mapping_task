@@ -1,0 +1,167 @@
+[
+  {
+    "Id": 1,
+    "Location": "Andhara-pardesh",
+    "Population": "84,580,777",
+    "Male": "42,442,146",
+    "Female": "42,138,631",
+    "district": [
+      {
+        "name": "praksam",
+        "affected": "10,000",
+        "death":"5,000"
+      },
+      {
+        "name": "guntur",
+        "affected": "11,000",
+        "death":"5,000"
+      },
+      {
+        "name": "krishna",
+        "affected": "12,000",
+        "death":"5,000"
+      },
+      {
+        "name": "nellore",
+        "affected": "13,000",
+        "death":"5,000"
+      }
+    ],
+    "image":"https://assets.thehansindia.com/h-upload/2022/01/26/1197187-old.jpg",
+    "death":"20,000",
+    "Latitude": 19.601194,
+    "Longitude": 75.552979
+  },
+  {
+    "Id": 2,
+    "Location": "Kerala",
+    "Population": "64,580,777",
+    "Male": "32,442,146",
+    "Female": "32,138,631",
+    "district": [
+      {
+        "name": "Alappuzha",
+        "affected": "9,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Ernakulam",
+        "affected": "8,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Idukki",
+        "affected": "7,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Kannur",
+        "affected": "6,000",
+        "death":"5,000"
+      }
+    ],
+    "image":"https://indzara.com/wp-content/uploads/2018/05/GradientNameYDataY.png",
+    "death":"19,000",
+    "Latitude": 10.850516,
+    "Longitude": 76.27108
+  },
+  {
+    "Id": 3,
+    "Location": "Karnataka",
+    "Population": "44,580,777",
+    "Male": "22,442,146",
+    "Female": "22,138,631",
+    "district": [
+      {
+        "name": "Bagalkot",
+        "affected": "19,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Bengaluru",
+        "affected": "17,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Bidar",
+        "affected": "16,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Chamarajanagar",
+        "affected": "15,000",
+        "death":"5,000"
+      }
+    ],
+    "death":"15,000",
+    "image":"https://travel2karnataka.com/images/karnataka_district_map.jpg",
+    "Latitude": 15.317277,
+    "Longitude": 75.71389
+  },
+  {
+    "Id": 4,
+    "Location": "Tamil Nadu",
+    "Population": "34,580,777",
+    "Male": "17,442,146",
+    "Female": "17,138,631",
+    "district": [
+      {
+        "name": "Chengalpattu",
+        "affected": "19,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Chennai",
+        "affected": "20,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Coimbatore",
+        "affected": "21,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Cuddalore",
+        "affected": "22,000",
+        "death":"5,000"
+      }
+    ],
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TN_Districts_1956.png/230px-TN_Districts_1956.png",
+    "death":"15,000",
+    "Latitude": 11.059821,
+    "Longitude": 78.387451
+  },
+  {
+    "Id": 5,
+    "Location": "Jaipur",
+    "Population": "24,580,777",
+    "Male": "12,442,146",
+    "Female": "17,138,631",
+    "district": [
+      {
+        "name": "Chengalpattu",
+        "affected": "19,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Chennai",
+        "affected": "20,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Coimbatore",
+        "affected": "21,000",
+        "death":"5,000"
+      },
+      {
+        "name": "Cuddalore",
+        "affected": "22,000",
+        "death":"5,000"
+      }
+    ],
+    "image":"https://www.researchgate.net/figure/Regional-map-of-Rajasthan-and-location-of-Jaipur-Maps-of-India-2018_fig1_336063734",
+    "death":"12,000",
+    "Latitude": 27.07005991029004,
+    "Longitude":  75.74953902645751
+  }
+]
