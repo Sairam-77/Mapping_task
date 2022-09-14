@@ -30,7 +30,7 @@ const Detail = () => {
         
         <tbody>
             {
-            selected==undefined?<p>loading..</p>: selected.district.map((e,i)=>{
+            selected===undefined?<p>loading..</p>: selected.district.map((e,i)=>{
                 return <tr className='text-center'>
                     <td>{i+1}</td>
                     <td>{e.name}</td>
