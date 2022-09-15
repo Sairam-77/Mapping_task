@@ -18,7 +18,7 @@ function Map() {
     const {setSelected} = useContext(Context);
     const [ activeCovid, setActiveCovid ] = useState( null );
   return <>
-  <h2 className='text-center p-3'>Covid Details</h2>
+  <h2 className='text-center p-3 bg-primary text-light'>Covid Details</h2>
   <div className='main'>
 
       <MapContainer 
