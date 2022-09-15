@@ -9,8 +9,8 @@ const Detail = () => {
     
 
   return <>
-  <button className='btn btn-primary' onClick={()=>navigate('/')}>Back</button>
-  <h2 className='text-center p-3'>{selected.Location}</h2>
+  <button className='btn btn-secondary' onClick={()=>navigate('/')}>Back</button>
+  <h2 className='text-center text-light p-3 bg-primary'>{selected.Location}</h2>
     <div className='main-detail'>
         <div className='state-img'>
         {
